@@ -1,13 +1,7 @@
-# Header 1
-## Header 2
-### Header 3
+# Contacts
 
-- Bulleted
-- List
+- [Linkedin](https://www.linkedin.com/in/vivek-vadakeyil/) 
+- [Gmail](mailto:vivekmv95@gmail.com)
+- [Facebook](https://www.facebook.com/vivek.mv.12)
+- [Instagram](https://www.instagram.com/_vivek.m.v_/)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
